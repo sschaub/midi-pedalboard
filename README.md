@@ -22,7 +22,7 @@ choose **Download ZIP**. Then extract the files in the zip to a folder on your c
 
 ## Configuration and Use
 
-See [this Youtube video](https://youtu.be/6U5MkY6Ryuw?si=TP5r8--o-r2-0z49) for a demonstration of how to configure these utilities and use them.
+See [this Youtube video](https://youtu.be/NPL5nFDbmLA) for a demonstration of how to configure these utilities and use them.
 
 All the utilities require that you configure the `SCAN_PINS` to be the Arduino port numbers
 wired to the pedalboard matrix row pins, and `WRITE_PINS` to be the
